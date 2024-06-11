@@ -1,6 +1,6 @@
 The implementation of \[[Scalable Private Set Union, with Stronger Security](https://eprint.iacr.org/2024/922)\], accepted at USENIX Security 2024.
 
-Code based on the implementation of 2-Party Circuit-PSI available at \[[https://github.com/encryptogroup/OPPRF-PSI](https://github.com/encryptogroup/OPPRF-PSI)\] and Oblivious Shuffle Network from \[[https://github.com/dujiajun/PSU](https://github.com/dujiajun/PSU)\].
+Code based on the implementation of 2-Party Circuit-PSI available at \[[https://github.com/shahakash28/2PC-Circuit-PSI](https://github.com/shahakash28/2PC-Circuit-PSI)\] and Oblivious Shuffle Network from \[[https://github.com/dujiajun/PSU](https://github.com/dujiajun/PSU)\].
 
 ## Required packages:
  - g++ (version >=8)
